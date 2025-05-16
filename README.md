@@ -30,9 +30,14 @@
 <p><a target="_blank" href="https://twitter.com/https://x.com/enginebits" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=IC-XOrbit-07&show_icons=true&locale=en" alt="IC-XOrbit-07" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IC-XOrbit-07&" alt="IC-XOrbit-07" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IC-XOrbit-07&show_icons=true&locale=en&layout=compact" alt="IC-XOrbit-07" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IC-XOrbit-07" alt="IC-XOrbit-07" /></a></p>
+
+<div style="display:flex;">
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IC-XOrbit-07&show_icons=true&locale=en&layout=compact" alt="IC-XOrbit-07" /></p>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IC-XOrbit-07" alt="IC-XOrbit-07" /></a></p>
+</div>
+
 
 
 
