@@ -33,9 +33,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IC-XOrbit-07&" alt="IC-XOrbit-07" /></p>
 
-<div style="display:flex;">
+<!-- <div style="display:flex;">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=IC-XOrbit-07&show_icons=true&locale=en&layout=compact" alt="IC-XOrbit-07" /></p>
-  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IC-XOrbit-07" alt="IC-XOrbit-07" /></a></p>
+  <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IC-XOrbit-07" alt="IC-XOrbit-07" /></a></p> -->
 </div>
 
 
